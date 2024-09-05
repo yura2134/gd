@@ -1,0 +1,9 @@
+ +x install.sh FotoSploit
+
+ install.sh
+
+ foto <путь к картинке>
+set title url <текст предпросмотра>
+set view <YOUTUBE или FACEBOOK>
+go
+
